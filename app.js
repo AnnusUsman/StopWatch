@@ -42,6 +42,4 @@ function reset() {
 function restart() {
     pause();
     start();
-    
 }
-
